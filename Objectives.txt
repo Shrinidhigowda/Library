@@ -12,3 +12,9 @@ efficiency requirement
 reliability requirement
 usability requirement
 organizational requirement
+
+User story:
+As an library manager, I want to update information of book on bookshelf in system so that I can manage books convenuently.
+Acceptance criteria:
+1.Information of book on bookshelf can be added in detail
+2.Information of book can be removed from the system
